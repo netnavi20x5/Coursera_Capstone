@@ -1,23 +1,23 @@
-Adachi
-Arakawa
-Bunkyo
-Chiyoda
-Chūō
-Edogawa
-Itabashi
+Adachi, Tokyo
+Arakawa, Tokyo
+Bunkyo, Tokyo
+Chiyoda, Tokyo
+Chuo, Tokyo
+Edogawa, Tokyo
+Itabashi, Tokyo
 Katsushika
-Kita
-Kōtō
-Meguro
-Minato
-Nakano
-Nerima
-Ōta
-Setagaya
-Shibuya
-Shinagawa
-Shinjuku
-Suginami
-Sumida
-Taitō
-Toshima
+Kita, tokyo
+Koto , Tokyo
+Meguro, Tokyo
+Minato, Tokyo
+Nakano, Tokyo
+Nerima, Tokyo
+Ota, Tokyo
+Setagaya, Tokyo
+Shibuya, Tokyo
+Shinagawa, Tokyo
+Shinjuku, Tokyo
+Suginami, Tokyo
+Sumida, Tokyo
+Taito, Tokyo
+Toshima, Tokyo
